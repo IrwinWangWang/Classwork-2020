@@ -1,0 +1,95 @@
+#1: Wake up and go to school
+
+Waking up:
+- if feeling sleep:
+       snooze for another five minutes
+       else:
+       get dressed
+       continue
+        
+Brushing teeth:
+  - for x in 32 (one for each tooth):
+      x=x+1
+      irwin.circular_motion_with_a_toothbrush_for_five_seconds
+      if x=32:
+        put toothbrush away and wash your face
+        continue routine
+
+Crossing the road:
+- while light=red:
+    stop and wait
+    else:
+      cross the street
+      while not at school:
+        continue walking to school
+     
+     
+     
+#2 Getting food from the vending machine from the machine's POV
+
+Wait for customer to insert money: 
+- do not allow certain forms of money (like pennies)
+  - return an error code if invalid money is received
+Wait for customer to punch in a number: 
+  - Scan the number to see if it is assoiated with an in-stock item
+    - return an error message if it is not
+    - deliver ordered item the number matches and item is in-stock
+Deliver the ordered item 
+ - Push one unit of the item down and into the retrieving hole
+Return change 
+- calculate the value of (amount paid by the customer - cost of the item)
+  - find coins in the storage box that match closest to the value
+    - drop them down to the retrieving box
+ 
+ #3: People who can't park
+ 
+ (a privacy-invading drone that detects and deals with bad parkers in a fiery manner)
+ 
+ 
+-Scan the parking area from the sky for cars that are not in betweeen the lines
+-Identify the driver 
+  -go up-close to the license plates
+    - record plate number
+    - search in municiapl database for identity of the driver and their phone number
+- Notify the driver
+  - Call the driver and inform them of their traffic offence
+    - Issue a ticket to be paid within ten minutes
+- Punishing the driver (or not)
+  - check back in ten minutes to see if ticket is paid
+  - if ticket is paid let the driver go and repeat the process
+  - if ticket is not paid burn the car to the ground
+    - open built-in flamethrowers and fire it at the car
+    - refuse to pay for damages
+    
+#4 Preventing/fixing the cookie from not fitting into the mouth of the cup
+
+- measure with a ruler the diameter of the cup's mouth
+  - record number down
+- measure the diameter of the cookie
+  - place the cookie on a flat surface
+   - make sure to measure with a ruler parallel to 180 degrees from one end of the cookie to another
+  - record result on a piece of paper
+- compare the width of the cookie to the width of the cup
+  - if the cookie is smaller than the cup, the cookie is able to be dipped
+  - if the cookie is bigger than the cup, you need to get a new cup or smaller cookies
+- drive to the store
+   - find cookies able to fit into your cup at home
+       - find the snacks section
+   - measure cookies
+       - rip open a package of cookies on the store shelf
+       - lay the cookies down on the store floor for a flat surface
+       - lay down ruler on the flat floor and measure diameter of a cookie
+    - buy pack of cookies that can fit into the cup
+        - explain to security about damaging unpaid-for products
+ - happy dunking!
+    
+
+
+
+    
+    
+
+  
+  
+    
+    
