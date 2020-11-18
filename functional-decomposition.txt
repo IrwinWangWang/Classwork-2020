@@ -10,7 +10,7 @@ Waking up:
 Brushing teeth:
   - for x in 32 (one for each tooth):
       x=x+1
-      irwin.circular_motion_with_a_toothbrush_for_five_seconds
+      circular_motion_with_a_toothbrush_for_five_seconds
       if x=32:
         put toothbrush away and wash your face
         continue routine
