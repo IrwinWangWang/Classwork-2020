@@ -59,28 +59,29 @@ Return change
   - if ticket is paid let the driver go and repeat the process
   - if ticket is not paid burn the car to the ground
     - open built-in flamethrowers and fire it at the car
-    - refuse to pay for damages
+    - refuse to pay for damages (drones have no money)
     
 #4 Preventing/fixing the cookie from not fitting into the mouth of the cup
 
 - measure with a ruler the diameter of the cup's mouth
-  - record number down
+  - record measurement down
 - measure the diameter of the cookie
   - place the cookie on a flat surface
    - make sure to measure with a ruler parallel to 180 degrees from one end of the cookie to another
-  - record result on a piece of paper
+  - record measurement
 - compare the width of the cookie to the width of the cup
   - if the cookie is smaller than the cup, the cookie is able to be dipped
-  - if the cookie is bigger than the cup, you need to get a new cup or smaller cookies
-- drive to the store
+  - if the cookie is bigger than the cup, you need to get smaller cookies
+- Buy new cookies
+   - drive to the store
    - find cookies able to fit into your cup at home
        - find the snacks section
    - measure cookies
        - rip open a package of cookies on the store shelf
        - lay the cookies down on the store floor for a flat surface
-       - lay down ruler on the flat floor and measure diameter of a cookie
+       - lay down ruler on the flat floor and measure the diameter of a cookie
     - buy pack of cookies that can fit into the cup
-        - explain to security about damaging unpaid-for products
+        - explain to security about damaging unpaid-for products first
  - happy dunking!
     
 
