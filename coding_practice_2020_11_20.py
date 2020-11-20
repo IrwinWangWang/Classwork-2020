@@ -15,3 +15,11 @@ length = int(input ("what is the length of the prism: "))
 width = int(input("what is the width of the prism: "))
 height = int(input("what is the height of the prism: "))
 print(f"the volume is {length*width*height} units cubed")
+
+Question 4:
+  
+a = input ("do you mute the teacher when you join Google Meet? ")
+if a == "yes":
+    print("Ok, good")
+if a == "no":
+    print("That's probably not a good idea")
