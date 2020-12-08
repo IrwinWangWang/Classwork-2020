@@ -42,15 +42,15 @@ def main():
     print(outcome_message(result))
 
 
-def get_random_word(word_list: list) -> str:
+def get_random_word(word_list):
     return random.choice(word_list)
 
 
-def print_lives_left(lives: int):
+def print_lives_left(lives):
     return f"you have {lives} out of 6 lives left"
 
 
-def reveal_letters(word: str, visible_letters) -> str:
+def reveal_letters(word, visible_letters):
     hidden_word = ""
     for letter in word:
         if letter in visible_letters:
@@ -61,33 +61,33 @@ def reveal_letters(word: str, visible_letters) -> str:
     return hidden_word.strip()
 
 
-def word_reveal_message(word: str) -> str:
+def word_reveal_message(word):
     return f"The secret word was '{word}'."
 
 
-def calc_attempts_remaining(attempts_allowed: int, incorrect_guesses: List[str]) -> int:
+def calc_attempts_remaining(attempts_allowed, incorrect_guesses):
     remaining_attempts = attempts_allowed - len(incorrect_guesses)
     return remaining_attempts
 
 
-def letter_is_in_word(letter: str, word: str) -> bool:
+def letter_is_in_word(letter, word):
     return letter in word
 
 
-def all_letters_present_in_list(word: str, letter_list: List[str]) -> bool:
+def all_letters_present_in_list(word, letter_list):
     for i in range(len(word)):
         if word[i] not in letter_list:
             return False
     return True
   
 
-def outcome_message(result: str) -> str:
+def outcome_message(result):
     if result == "win":
         return "You have won."
     else:
         return "You have lost."
 
-def get_guess(all_guesses: list) -> str:
+def get_guess(all_guesses):
     
     valid = False
     while valid is False:
